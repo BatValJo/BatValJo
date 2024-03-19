@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Val
+- 👀 I’m interested in creating games on Python
+- 🌱 I’m currently learning Python 
+- 📫 How to reach me: telegram username - @BatValJo
+- ⚡ Fun fact: I sing when I code
